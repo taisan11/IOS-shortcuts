@@ -1,0 +1,8 @@
+menu "何をしますか?" {
+    item "ショートカットの追加":
+        /* do stuff if selected... */
+    item "ショートカットの更新":
+        /* do other stuff if selected... */
+    item "ショートカットの削除":
+        /* do other stuff if selected... */
+}
